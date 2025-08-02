@@ -1,7 +1,7 @@
 # Cloud Support Toolkit
 
 A lightweight, Python-based command-line tool to automate health and compliance checks across core AWS services.  
-Built to help DevOps, SysOps, and Cloud Engineers quickly diagnose misconfigurations, security gaps, and operational issues — without needing to log in to the AWS console.
+Built to help DevOps, SysOps, and Cloud Engineers quickly diagnose misconfigurations, security gaps, and operational issues  without needing to log in to the AWS console.
 
 ---
 
